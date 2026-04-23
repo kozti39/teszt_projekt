@@ -1,3 +1,5 @@
 Üdvözöllek! Ez egy teszt_projekt lesz!
 
 Próbáld ki!
+
+1. Telepítsd a git-et a gépedre!
